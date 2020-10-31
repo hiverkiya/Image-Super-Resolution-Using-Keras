@@ -1,4 +1,3 @@
-<a href="https://www.rhyme.com"> <img src="https://www.rhyme.com/assets/img/logo-dark.png" alt="Header" style="width: 100px;"/> </a>
 <h1 align=center> Image Super Resolution using Autoencoders</h1>
 
  
